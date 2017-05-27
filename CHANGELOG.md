@@ -2,6 +2,10 @@
 
 ## [master](https://github.com/anmonteiro/lumo/compare/1.5.0...HEAD) (unreleased)
 
+### New features
+
+- Add support for `reverse-i-search` ([#169](https://github.com/anmonteiro/lumo/pull/169)).
+
 ### Bug fixes
 
 - Fix regression that prevented requiring binary modules ([#163](https://github.com/anmonteiro/lumo/issues/163)).
